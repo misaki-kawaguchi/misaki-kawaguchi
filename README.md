@@ -12,12 +12,6 @@
 ![Figma](https://img.shields.io/badge/figma-%239747FF.svg?style=flat-square&logo=figma&logoColor=white)
 ![Linear](https://img.shields.io/badge/-Linear-5E6AD2?style=flat-square&logo=Linear&logoColor=white)
 
-
-<h3 align="left">Studying</h3>
-
-![Kotlin](https://img.shields.io/badge/Kotlin-7f52ff?style=flat-square&logo=kotlin&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/JetpackCompose-33CC55?style=flat-square&logo=jetpackcompose&logoColor=white)
-
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=misaki-kawaguchi&layout=compact&show_icons=true&theme=tokyonight" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=misaki-kawaguchi&theme=tokyonight&show_icons=ture" />
